@@ -1,0 +1,4 @@
+*.bmp
+nes2bmp
+obj/*
+bin/*
